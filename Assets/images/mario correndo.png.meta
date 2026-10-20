@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: f511c6d77fc8e01459a100d68b8478a1
+guid: a150714cd1b84e542be874b41f3ba0b6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8856090937316921034
-    second: sr2d5c0683c82aws3_0
+      213: -3883303628123077783
+    second: mario correndo_0
+  - first:
+      213: 5438802182065858353
+    second: mario correndo_1
+  - first:
+      213: 7846412883490546947
+    second: mario correndo_2
+  - first:
+      213: 8009340648251645340
+    second: mario correndo_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -75,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -100,13 +109,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sr2d5c0683c82aws3_0
+      name: mario correndo_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1200
-        height: 1600
+        width: 14
+        height: 18
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +124,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: acec45139c727ea70800000000000000
-      internalID: 8856090937316921034
+      spriteID: 9630db2ccebbb1ac0800000000000000
+      internalID: -3883303628123077783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137a7a1c4c18a7b40800000000000000
+      internalID: 5438802182065858353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo_2
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305a08902fe04ec60800000000000000
+      internalID: 7846412883490546947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9dd22062e4e62f60800000000000000
+      internalID: 8009340648251645340
       vertices: []
       indices: 
       edges: []
@@ -135,7 +210,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      sr2d5c0683c82aws3_0: 8856090937316921034
+      mario correndo_0: -3883303628123077783
+      mario correndo_1: 5438802182065858353
+      mario correndo_2: 7846412883490546947
+      mario correndo_3: 8009340648251645340
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
